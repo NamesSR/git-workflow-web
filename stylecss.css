@@ -1,6 +1,12 @@
+
+html{
+  font-size: 62.5%;
+}
+
 body{
     background-color: cyan;
 }
 header{
     color: blue;
+    
 }
